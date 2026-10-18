@@ -7,7 +7,59 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg?style=for-the-badge)
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ6Mmd6Ym1uNGZ4Z3R4bWZ4Z3R4bWZ4Z3R4bWZ4Z3R4JmVuY3J5cHRlZD1pZD1ncGh5czJ6eTZ5NnN6eTZ5NnN6eTZ5JnN0PXByb2R1Y3Rpb25fZW1haWwmY3Q9Zw" width="600">
+</div>
+
+---
+
+<div align="center">
+
+## 📡 **CONNECT WITH US** 📡
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💬 **Telegram Channels**
+
+[![Channel 1](https://img.shields.io/badge/Channel%201-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+gsrpvshwGUc5MzI0)
+[![Channel 2](https://img.shields.io/badge/Channel%202-Join-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LinxProdXs404)
+
+</td>
+<td align="center" width="50%">
+
+### 📝 **Latest Posts**
+
+[![Post 1](https://img.shields.io/badge/Post%20%23249-Read-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LinxProdXs404/249)
+[![Post 2](https://img.shields.io/badge/Post%20%23541-Read-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LinxProdXs404/541)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 💎 **ULP Cloud**
+
+[![ULP](https://img.shields.io/badge/ULP-@ulp__CLOUD1-FF6B6B?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ulp_CLOUD1)
+
+</td>
+<td align="center" width="50%">
+
+### 💬 **Direct Message**
+
+[![DM](https://img.shields.io/badge/DM-@HackfutS3c-4CAF50?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/HackfutS3c)
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+### 📋 **Pastebin**
+
+[![Pastebin](https://img.shields.io/badge/Pastebin-hackfut-02456C?style=for-the-badge&logo=codeforces&logoColor=white)](https://pastebin.com/u/hackfut)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -28,6 +80,7 @@
 
 ## 📋 **Table of Contents**
 
+- [📡 Connect With Us](#-connect-with-us)
 - [🔍 Description](#-description)
 - [✨ Features](#-features)
 - [⚙️ Prerequisites](#️-prerequisites)
@@ -388,7 +441,7 @@ SOFTWARE.
 
 Don't forget to add this file:
 
-```txt
+```
 requests>=2.28.0
 colorama>=0.4.6
 ```
